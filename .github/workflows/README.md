@@ -1,1 +1,0 @@
-https://github.com/AlexPar124/posmotri-v-okno-fd#
